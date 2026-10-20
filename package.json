@@ -1,0 +1,10 @@
+{
+  "name": "@decibelsystems/homebase",
+  "version": "1.0.0",
+  "description": "Branch identity, conventions, and plugin protocol for the Decibel ecosystem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decibelsystems/homebase.git"
+  }
+}

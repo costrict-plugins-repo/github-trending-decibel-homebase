@@ -1,0 +1,16 @@
+{
+  "name": "decibelsystems-homebase",
+  "description": "Decibel homebase plugin — branch identity and conventions",
+  "owner": {
+    "name": "Decibel Systems",
+    "url": "https://github.com/decibelsystems"
+  },
+  "plugins": [
+    {
+      "name": "homebase",
+      "description": "Branch identity, conventions, and plugin protocol for the Decibel ecosystem",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
